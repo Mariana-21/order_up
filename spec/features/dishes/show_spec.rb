@@ -44,6 +44,3 @@ RSpec.describe "As a visitor", type: :feature do
     end
   end
 end
-# As a visitor
-# When I visit a dish's show page
-# I see the total calorie count for that dish.
